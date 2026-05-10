@@ -1,0 +1,1 @@
+This is a basic SDL template that I created that allowed me to test creating a program and pushing it to an Evercade development console to understand its workings, limitations and understanding the architecture. This was later developed into a full game that was then playable on the console.
